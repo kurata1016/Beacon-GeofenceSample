@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">BeaconSample</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="distance">BeaconDemo開始ボタン</string>
+    <string name="geofence">GeoFenceDemo開始ボタン</string>
+    <string name="notify">Notifyモード</string>
+    <string name="characteristics">Change Beacons Minor Demo</string>
+    <string name="device_name">Device Name</string>
+    <string name="description">image</string>
+
+</resources>
